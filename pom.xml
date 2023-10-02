@@ -14,10 +14,10 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<dropwizard.version>0.8.4</dropwizard.version>
+		<dropwizard.version>2.0.0</dropwizard.version>
 		<spring.version>4.0.5.RELEASE</spring.version>
 		<guice.version>4.0-beta5</guice.version>
-		<quartz.version>2.2.1</quartz.version>
+		<quartz.version>2.3.0</quartz.version>
 	</properties>
 
 	<developers>
